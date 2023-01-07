@@ -1,0 +1,6 @@
+@media(max-width: 75em){
+  html{
+    font-size: 80%;
+    font-family: Helvetica;
+  }
+}
